@@ -1,5 +1,5 @@
 # malariaCNN
-Réaliser par: **Omar EL ALAMI**
+Réaliseé par: **Omar EL ALAMI**
 
 ## Classification d'Images de Malaria avec CNN
 
